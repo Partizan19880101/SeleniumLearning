@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="resources">
+    <ANNOTATIONS>
+      <root url="file://$PROJECT_DIR$/src/test/resources" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/src/test/resources" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/src/test/resources" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/src/test/resources" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src/test/resources" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/src/test/resources" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/src/test/resources" recursive="false" type="SOURCES" />
+  </library>
+</component>

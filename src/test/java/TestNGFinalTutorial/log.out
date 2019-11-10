@@ -1,0 +1,29 @@
+2019-10-13 -- INFO       TestNGFinalTutorial.DependCase.TestNG_DependentTests - Enter the city of departure
+2019-10-13 -- INFO       TestNGFinalTutorial.DependCase.TestNG_DependentTests - Enter the city of destination
+2019-10-13 -- INFO       TestNGFinalTutorial.DependCase.TestNG_DependentTests - Enter the city of departure
+2019-10-13 -- INFO       TestNGFinalTutorial.DependCase.TestNG_DependentTests - Enter the city of destination
+2019-10-13 -- INFO       TestNGFinalTutorial.MultiThreadingAndParralel.TestNG_GoogleSearch - [START] Thread Id : 20 is started!
+2019-10-13 -- INFO       TestNGFinalTutorial.MultiThreadingAndParralel.TestNG_GoogleSearch - [START] Thread Id : 19 is started!
+2019-10-13 -- INFO       TestNGFinalTutorial.MultiThreadingAndParralel.TestNG_GoogleSearch - [START] Thread Id : 21 is started!
+2019-10-13 -- INFO       TestNGFinalTutorial.MultiThreadingAndParralel.TestNG_GoogleSearch - [START] Thread Id : 19 is started!
+2019-10-13 -- INFO       TestNGFinalTutorial.MultiThreadingAndParralel.TestNG_GoogleSearch - [START] Thread Id : 20 is started!
+2019-10-13 -- INFO       TestNGFinalTutorial.MultiThreadingAndParralel.TestNG_GoogleSearch - [START] Thread Id : 21 is started!
+2019-10-13 -- INFO       TestNGFinalTutorial.MultiThreadingAndParralel.TestNG_GoogleSearch - Element found and search for Java MultiThreading
+2019-10-13 -- INFO       TestNGFinalTutorial.MultiThreadingAndParralel.TestNG_GoogleSearch - Element found and search for Java MultiThreading
+2019-10-13 -- INFO       TestNGFinalTutorial.MultiThreadingAndParralel.TestNG_GoogleSearch - Element found and search for Java MultiThreading
+2019-10-13 -- INFO       TestNGFinalTutorial.MultiThreadingAndParralel.TestNG_GoogleSearch - [END] Thread Id : 20 is ended
+2019-10-13 -- INFO       TestNGFinalTutorial.MultiThreadingAndParralel.TestNG_GoogleSearch - [END] Thread Id : 19 is ended
+2019-10-13 -- INFO       TestNGFinalTutorial.MultiThreadingAndParralel.TestNG_GoogleSearch - [END] Thread Id : 21 is ended
+2019-10-13 -- INFO       TestNGFinalTutorial.MultiThreadingAndParralel.TestNG_MultiThreading - [START] Thread Id : 12 is started!
+2019-10-13 -- INFO       TestNGFinalTutorial.MultiThreadingAndParralel.TestNG_GoogleSearch - [START] Thread Id : 26 is started!
+2019-10-13 -- INFO       TestNGFinalTutorial.MultiThreadingAndParralel.TestNG_GoogleSearch - [START] Thread Id : 25 is started!
+2019-10-13 -- INFO       TestNGFinalTutorial.MultiThreadingAndParralel.TestNG_GoogleSearch - [START] Thread Id : 27 is started!
+2019-10-13 -- INFO       TestNGFinalTutorial.MultiThreadingAndParralel.TestNG_GoogleSearch - [START] Thread Id : 21 is started!
+2019-10-13 -- INFO       TestNGFinalTutorial.MultiThreadingAndParralel.TestNG_GoogleSearch - [START] Thread Id : 20 is started!
+2019-10-13 -- INFO       TestNGFinalTutorial.MultiThreadingAndParralel.TestNG_GoogleSearch - [START] Thread Id : 19 is started!
+2019-10-13 -- INFO       TestNGFinalTutorial.MultiThreadingAndParralel.TestNG_GoogleSearch - Element found and search for Java MultiThreading
+2019-10-13 -- INFO       TestNGFinalTutorial.MultiThreadingAndParralel.TestNG_GoogleSearch - Element found and search for Java MultiThreading
+2019-10-13 -- INFO       TestNGFinalTutorial.MultiThreadingAndParralel.TestNG_GoogleSearch - Element found and search for Java MultiThreading
+2019-10-13 -- INFO       TestNGFinalTutorial.MultiThreadingAndParralel.TestNG_GoogleSearch - [END] Thread Id : 21 is ended
+2019-10-13 -- INFO       TestNGFinalTutorial.MultiThreadingAndParralel.TestNG_GoogleSearch - [END] Thread Id : 20 is ended
+2019-10-13 -- INFO       TestNGFinalTutorial.MultiThreadingAndParralel.TestNG_GoogleSearch - [END] Thread Id : 19 is ended

@@ -1,0 +1,15 @@
+<suite name="TestSuite" parallel="tests">
+
+	<Listeners>
+		<listener class-name="SeleniumListeners.class">
+
+		</listener>
+	</Listeners>
+<test name="Chrome Test">
+	<classes>
+		<class name="TestNGFinalTutorial.Listeners.TestNG_TestCase">
+		</class>
+	</classes>
+</test>
+
+</suite>

@@ -1,0 +1,19 @@
+2019-10-12 -- INFO       Log4jTutorial.LoggingDemo - This message is a info
+2019-10-12 -- INFO       Log4jTutorial.LoggingDemo - This info message is from runMethod
+2019-10-12 -- DEBUG      Log4jTutorial.LoggingDemo - This message is a debug
+2019-10-12 -- INFO       Log4jTutorial.LoggingDemo - This message is a info
+2019-10-12 -- INFO       Log4jTutorial.LoggingDemo - This info message is from runMethod
+2019-10-12 -- DEBUG      Log4jTutorial.LoggingDemo - This message is a debug
+2019-10-12 -- INFO       Log4jTutorial.LoggingDemo - This message is a info
+2019-10-12 -- INFO       Log4jTutorial.LoggingDemo - This info message is from runMethod
+2019-10-12 -- DEBUG      Log4jTutorial.LoggingDemo - This message is a debug
+2019-10-12 -- INFO       Log4jTutorial.UsingLog4jIssues - Navigate to flights tab
+2019-10-12 -- INFO       Log4jTutorial.UsingLog4jIssues - Enter origin city
+2019-10-12 -- INFO       Log4jTutorial.UsingLog4jIssues - Enter destination city
+2019-10-12 -- INFO       Log4jTutorial.UsingLog4jIssues - Enter departure date
+2019-10-12 -- INFO       Log4jTutorial.UsingLog4jIssues - Enter return date
+2019-10-12 -- INFO       Log4jTutorial.UsingLog4jIssues - Navigate to flights tab
+2019-10-12 -- INFO       Log4jTutorial.UsingLog4jIssues - Enter origin city
+2019-10-12 -- INFO       Log4jTutorial.UsingLog4jIssues - Enter destination city
+2019-10-12 -- INFO       Log4jTutorial.UsingLog4jIssues - Enter departure date
+2019-10-12 -- INFO       Log4jTutorial.UsingLog4jIssues - Enter return date

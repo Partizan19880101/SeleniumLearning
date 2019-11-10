@@ -1,0 +1,8 @@
+23:18:35.755 INFO  letskodeit.LoggingFile -Info Message Logged
+23:18:35.756 ERROR letskodeit.LoggingFile -Error Message Logged
+23:18:35.757 FATAL letskodeit.LoggingFile -Fatal Message Logged
+23:18:43.973 DEBUG Log4j2.LoggingDemo -Debug Message Logged
+23:18:43.974 INFO  Log4j2.LoggingDemo -Info Message Logged
+23:18:43.975 ERROR Log4j2.LoggingDemo -Error Message Logged
+23:18:43.975 FATAL Log4j2.LoggingDemo -Fatal Message Logged
+23:33:53.628 INFO  letskodeit.TestNG_TestCase -This message is from test method

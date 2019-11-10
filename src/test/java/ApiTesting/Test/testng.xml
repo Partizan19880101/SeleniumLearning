@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="ApiTesting.basics4"/>
+      <class name="ApiTesting.basics3"/>
+      <class name="ApiTesting.basics2"/>
+      <class name="ApiTesting.AppTest"/>
+      <class name="ApiTesting.basics"/>
+      <class name="ApiTesting.basics8"/>
+      <class name="ApiTesting.basics7"/>
+      <class name="ApiTesting.basics6"/>
+      <class name="ApiTesting.basics5"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

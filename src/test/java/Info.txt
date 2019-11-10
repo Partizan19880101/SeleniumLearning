@@ -1,0 +1,21 @@
+
+first cmd
+cd /d D:\QA\Selenium learning\src\test\java
+java -jar selenium-server-standalone-2.47.1.jar -role hub
+\
+Second cmd
+cd /d D:\QA\Selenium learning\src\test\java
+java -jar selenium-server-standalone-2.47.1.jar -role node –hub http://192.168.100.5:4444/grid/register -port 5555
+or
+cd /d D:\QA\Selenium learning\src\test\java
+java -jar selenium-server-standalone-2.47.1.jar -role node -nodeConfig grid_node.json
+
+
+java -Dwebdriver.gecko.driver="D:\QA\ChromeIeGecko\geckodriver.exe" -Dwebdriver.chrome.driver="D:\QA\ChromeIeGecko\chromedriver.exe" -jar selenium-server-standalone-2.47.1.jar -role node -nodeConfig grid_node.json
+
+My ip address
+192.168.100.5
+
+
+
+java -jar selenium-server-standalone-2.47.1.jar –role webdriver – hub http://localhost:4444/grid/register –port 5555 -browser browserName=firefox.version=69.0.maxinstances=1.platform=windows

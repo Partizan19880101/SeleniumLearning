@@ -1,0 +1,15 @@
+<suite name="TestSuite">
+<test name="FireFox Test">
+<parameter name="origin" value="New York" />
+<parameter name="dest" value="Chicago" />
+<parameter name="depDate" value="10/28/2019" />
+<parameter name="retDate" value="10/31/2019" />
+	<classes>
+		<class name="TestNGFinalTutorial.ParametresDataProviders.TestNG_ParametersAndDataProviders">
+		<methods>
+			<include name="searchFlightsWithMultiData" />
+		</methods>
+		</class>
+	</classes>
+</test>
+</suite>
